@@ -1,0 +1,9 @@
+[submodule "cowsay-pipeline"]
+	path = cowsay-pipeline
+	url = git@github.com:arielgabai1/cowsay-pipeline.git
+[submodule "cowsay-versioned"]
+	path = cowsay-versioned
+	url = git@github.com:arielgabai1/cowsay-versioned.git
+[submodule "cowsay-multibranch"]
+	path = cowsay-multibranch
+	url = git@github.com:arielgabai1/cowsay-multibranch.git
